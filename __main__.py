@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
-import requests
+import discord
 
 from youtube_dl import YoutubeDownloade
 
